@@ -25,14 +25,30 @@
 // }
 
 
-const someString = "AAAAAA";
-somestring = {
+// const someString = "AAAAAA";
+// somestring = {
 
-length:200,
+// length:200,
 
-}
-
-
+// }
 
 
-var decimalNumber = 30;
+
+
+// var decimalNumber = 30;
+
+// const namesFirst= [];
+// namesFirst.push("David")
+// namesFirst.push("Gordon")
+// namesFirst.push("Sahil")
+
+
+
+// // namesFirst.length = 1;
+
+// namesFirst[3] = "China";
+// namesFirst[4] = "Japan";
+
+const array = [] =document.querySelectorAll("p");
+// 11.
+const namesString = names.join("<br>")
